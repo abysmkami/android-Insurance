@@ -9,10 +9,6 @@ import android.util.Log;
 
 import org.json.JSONObject;
 
-//import cn.smssdk.EventHandler;
-//import cn.smssdk.SMSSDK;
-//import cn.smssdk.utils.SMSLog;
-
 import cn.smssdk.EventHandler;
 import cn.smssdk.SMSSDK;
 import cn.smssdk.utils.SMSLog;
